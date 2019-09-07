@@ -3,3 +3,5 @@
 # addtion()
 # sub()
 # multi()
+
+# GUI Functions added
